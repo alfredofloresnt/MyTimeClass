@@ -1,0 +1,24 @@
+.task-container *{
+  margin: 0;
+  padding: 12px;
+  color: white;
+  word-wrap: break-word;
+}
+.task-container {
+  margin: 12px;
+  padding: 12px;
+}
+
+.task-header{
+  text-align: center;
+  background-color: #F44336;
+}
+.task-body {
+  background-color: #E57373;
+  padding: 48px;
+}
+
+.close-container{
+	position: absolute;
+	padding: 0px;
+}
